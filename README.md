@@ -1,5 +1,6 @@
 ## Hello World! I'm Oleh Shyian 👋
-![Демонстрация работы](https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif)
+![me](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+
 
 <!--
 **oholeh22/oholeh22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
