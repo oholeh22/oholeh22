@@ -6,6 +6,5 @@
 - 🤔 I’m looking for help with best practices in scalable React architecture.
 - 💬 Ask me about JavaScript, React, or front-end development tips.
 - 📫 How to reach me: shiyan4242@gmail.com
-- 😄 Pronouns: ...
 - ⚡ Fun fact: I love exploring new cuisines and am a fan of Thai street food and gyoza!
 
