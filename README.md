@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello World! I'm Oleh Shyian 👋
 ![Демонстрация работы](https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif)
 
 <!--
