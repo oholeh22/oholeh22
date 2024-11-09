@@ -1,7 +1,6 @@
-## Hello World! I'm Oleh Shyian 👨‍💻
+## Hello World! I'm Oleh Shyian 👨‍💻 Beginner Developer from Ukraine!
 ![me](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
-I am a Beginner Developer from Ukraine!
 <!--
 **oholeh22/oholeh22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
