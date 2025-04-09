@@ -2,7 +2,8 @@
 
 > "Code is not just code – it's art, it's evolution, it's a revolution in progress." 
 
-<img src="hhttps://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTR4ZnQ0dWRqbXdjMDZmMnMzb3RnejhyaWl0ZWk1ZThhbXo4dnJ4cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ov9jNziFTMfzSumAw/giphy.gif" alt="Coding GIF" width="150" align="right" />
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTR4ZnQ0dWRqbXdjMDZmMnMzb3RnejhyaWl0ZWk1ZThhbXo4dnJ4cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ov9jNziFTMfzSumAw/giphy.gif" alt="Coding GIF" width="150" align="right" />
+
 
 ## About Me
 
@@ -22,14 +23,14 @@ I enjoy working with modern technologies to create scalable, maintainable, and a
 
 ## Projects I'm Proud Of
 
-- **[Project One](#)**: A groundbreaking web application that redefines interactivity with a blend of creative design and robust functionality.
-- **[Project Two](#)**: A dynamic project that merges innovation and usability, offering a unique user experience.
-- **[Project Three](#)**: An experimental platform that pushes the limits of conventional web development through creative coding practices.
+- **[Project One](https://didyk-groom.vercel.app/)**: A groundbreaking web application that redefines interactivity with a blend of creative design and robust functionality.
+- **[Project Two](https://aquacoders.vercel.app/)**: A dynamic project that merges innovation and usability, offering a unique user experience.
+- **[Project Three](https://denyshv1.github.io/team-portfolio-js/)**: An experimental platform that pushes the limits of conventional web development through creative coding practices.
 
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your_username&show_icons=true&theme=github_dark" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=oholeh22&show_icons=true&theme=github_dark" alt="GitHub Stats" />
 </p>
 
 ## Connect With Me
