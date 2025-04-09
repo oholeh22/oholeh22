@@ -2,9 +2,6 @@
 
 > "Code is not just code – it's art, it's evolution, it's a revolution in progress." 
 
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTR4ZnQ0dWRqbXdjMDZmMnMzb3RnejhyaWl0ZWk1ZThhbXo4dnJ4cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ov9jNziFTMfzSumAw/giphy.gif" alt="Coding GIF" width="150" align="right" />
-
-
 ## About Me
 
 I'm a passionate developer who thrives on turning innovative ideas into reality. I love experimenting with emerging technologies and crafting unique, user-friendly digital experiences that push boundaries.
